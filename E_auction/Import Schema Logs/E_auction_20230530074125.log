@@ -1,0 +1,86 @@
+30/05/2023 07:41:25	This log contains information about the import schema operation into project 'E_auction' on computer 'DEV-STATION-01' by user 'vijay.singh'.
+30/05/2023 07:41:25	Import of database schema has started.
+30/05/2023 07:41:32	Gathering database credentials
+30/05/2023 07:41:32	Gathering database options
+30/05/2023 07:41:32	Gathering generic database scoped configuration option
+30/05/2023 07:41:32	Gathering users
+30/05/2023 07:41:32	Gathering roles
+30/05/2023 07:41:32	Gathering application roles
+30/05/2023 07:41:32	Gathering role memberships
+30/05/2023 07:41:32	Gathering filegroups
+30/05/2023 07:41:32	Gathering full-text catalogs
+30/05/2023 07:41:32	Gathering assemblies
+30/05/2023 07:41:32	Gathering certificates
+30/05/2023 07:41:32	Gathering asymmetric keys
+30/05/2023 07:41:32	Gathering symmetric keys
+30/05/2023 07:41:32	Gathering encrypted symmetric keys
+30/05/2023 07:41:32	Gathering schemas
+30/05/2023 07:41:32	Gathering XML schema collections
+30/05/2023 07:41:32	Gathering user-defined data types
+30/05/2023 07:41:32	Gathering user-defined types
+30/05/2023 07:41:32	Gathering table types
+30/05/2023 07:41:32	Gathering unique keys for table types
+30/05/2023 07:41:32	Gathering primary keys for table types
+30/05/2023 07:41:32	Gathering indexes for table types
+30/05/2023 07:41:33	Gathering check constraints for table types
+30/05/2023 07:41:33	Gathering default constraints for table types
+30/05/2023 07:41:33	Gathering partition functions
+30/05/2023 07:41:33	Gathering partition schemes
+30/05/2023 07:41:33	Gathering functions
+30/05/2023 07:41:33	Gathering encrypted functions
+30/05/2023 07:41:33	Gathering aggregates
+30/05/2023 07:41:33	Gathering procedures
+30/05/2023 07:41:33	Gathering encrypted procedures
+30/05/2023 07:41:33	Gathering tables
+30/05/2023 07:41:33	Gathering primary keys
+30/05/2023 07:41:33	Gathering unique constraints
+30/05/2023 07:41:33	Gathering foreign keys
+30/05/2023 07:41:33	Gathering default constraints
+30/05/2023 07:41:33	Gathering check constraints
+30/05/2023 07:41:33	Gathering views
+30/05/2023 07:41:33	Gathering encrypted views
+30/05/2023 07:41:33	Gathering indexes
+30/05/2023 07:41:33	Gathering statistics
+30/05/2023 07:41:33	Gathering full-text index stoplists
+30/05/2023 07:41:33	Gathering search property lists
+30/05/2023 07:41:33	Gathering search properties
+30/05/2023 07:41:33	Gathering full-text indexes
+30/05/2023 07:41:33	Gathering column store indexes
+30/05/2023 07:41:33	Gathering spatial indexes
+30/05/2023 07:41:33	Gathering XML indexes
+30/05/2023 07:41:33	Gathering Selective XML indexes
+30/05/2023 07:41:33	Gathering encrypted triggers
+30/05/2023 07:41:33	Gathering triggers
+30/05/2023 07:41:33	Gathering encrypted and clr ddl triggers
+30/05/2023 07:41:33	Gathering ddl triggers
+30/05/2023 07:41:33	Creating edge constraints
+30/05/2023 07:41:33	Gathering synonyms
+30/05/2023 07:41:33	Gathering defaults
+30/05/2023 07:41:33	Gathering data constraint uddt bindings
+30/05/2023 07:41:33	Gathering rules
+30/05/2023 07:41:33	Gathering data constraint uddt bindings
+30/05/2023 07:41:33	Gathering message types
+30/05/2023 07:41:33	Gathering queues
+30/05/2023 07:41:33	Gathering contracts
+30/05/2023 07:41:33	Gathering services
+30/05/2023 07:41:33	Gathering event notifications
+30/05/2023 07:41:33	Gathering remote service bindings
+30/05/2023 07:41:33	Gathering broker priorities
+30/05/2023 07:41:33	Gathering signatures
+30/05/2023 07:41:33	Gathering data compression options
+30/05/2023 07:41:33	Gathering sequence types
+30/05/2023 07:41:33	Gathering security policies
+30/05/2023 07:41:33	Gather column encryption keys
+30/05/2023 07:41:33	Gathering column master keys
+30/05/2023 07:41:33	Gathering external data sources
+30/05/2023 07:41:33	Gathering external file formats
+30/05/2023 07:41:33	Gathering external tables
+30/05/2023 07:41:33	Gathering extended properties
+30/05/2023 07:41:33	Gathering credentials
+30/05/2023 07:41:33	Gathering logins
+30/05/2023 07:41:33	Gathering server audits
+30/05/2023 07:41:33	Scanning project for duplicate elements
+30/05/2023 07:41:34	Finished duplicate element processing
+30/05/2023 07:41:34	Finished importing database.
+30/05/2023 07:41:34	A summary of the import was saved to the following location: C:\Anusha\eAuction\E_auction\Import Schema Logs\E_auction_20230530074125.log
+30/05/2023 07:41:34	Click Finish to continue...

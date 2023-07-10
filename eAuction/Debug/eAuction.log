@@ -1,0 +1,7 @@
+﻿  Library.cpp
+C:\Anusha\eAuction\eAuction\Library.cpp(238,17): warning C4101: 'final_time': unreferenced local variable
+C:\Anusha\eAuction\eAuction\Library.cpp(229,12): warning C4101: 'time1': unreferenced local variable
+C:\Anusha\eAuction\eAuction\Library.cpp(375,32): warning C4018: '>': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  eAuction.vcxproj -> C:\Anusha\eAuction\Debug\eAuction.exe

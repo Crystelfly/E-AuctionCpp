@@ -1,0 +1,10 @@
+C:\Anusha\eAuction\E_auction\bin\Debug\E_auction.dacpac
+C:\Anusha\eAuction\E_auction\bin\Debug\E_auction.dll
+C:\Anusha\eAuction\E_auction\bin\Debug\E_auction.pdb
+C:\Anusha\eAuction\E_auction\obj\Debug\E_auction.sqlproj.AssemblyReference.cache
+C:\Anusha\eAuction\E_auction\obj\Debug\E_auction.dll
+C:\Anusha\eAuction\E_auction\obj\Debug\E_auction.pdb
+C:\Anusha\eAuction\E_auction\obj\Debug\Model.xml
+C:\Anusha\eAuction\E_auction\obj\Debug\refactor.xml
+C:\Anusha\eAuction\E_auction\obj\Debug\postdeploy.sql
+C:\Anusha\eAuction\E_auction\obj\Debug\predeploy.sql
